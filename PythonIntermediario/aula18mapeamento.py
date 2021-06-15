@@ -1,6 +1,5 @@
 from aula18Dados import produtos, pessoas, lista
 
-
 # nova_lista = map(lambda x: x * 2, lista)
 # print(lista)
 # nova_lista = [x * 2 for x in lista]
